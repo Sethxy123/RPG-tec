@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Name","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Name","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":1,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Isaac","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":4,"characterName":"Actor1","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Seth","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":3,"characterName":"Nature","classId":3,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Axel","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"Actor1_4","characterIndex":4,"characterName":"Actor1","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Seth","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_1","characterIndex":3,"characterName":"Nature","classId":3,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Axel","nickname":"","note":"","profile":""}
 ]
