@@ -1,8 +1,0 @@
-[
-null,
-{"id":1,"expanded":false,"name":"Pension","order":1,"parentId":0,"scrollX":1638,"scrollY":886},
-{"id":2,"expanded":true,"name":"Calle01","order":2,"parentId":0,"scrollX":1638,"scrollY":886},
-{"id":3,"expanded":true,"name":"Test Map","order":3,"parentId":2,"scrollX":1622,"scrollY":966},
-{"id":4,"expanded":true,"name":"Pueblo pesquero","order":4,"parentId":3,"scrollX":1622,"scrollY":896},
-{"id":5,"expanded":false,"name":"Casa 1","order":5,"parentId":4,"scrollX":1638,"scrollY":886}
-]
